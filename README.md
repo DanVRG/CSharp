@@ -1,2 +1,2 @@
 # CSharp
-Garbage Collector Demo
+Varga Dániel C# repo
