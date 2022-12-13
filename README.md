@@ -5,3 +5,5 @@
 
 A elmentett játékokat a főmenüben levő listából lehet kiválasztani, majd a Folytatás gombot megnyomva
 folytatni a játékot, ami felülírja a mentést.
+
+A bin mappában található exe-vel lehet elindítani a programot.
